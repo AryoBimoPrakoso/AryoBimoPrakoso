@@ -8,7 +8,7 @@ I'm a Junior Frontend Developer
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-F24E1E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6CC248?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <!--
 **AryoBimoPrakoso/AryoBimoPrakoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
