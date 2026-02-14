@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Junior Frontend Developer
+I'm Aryo Bimo Prakoso, an Junior Frontend Developer
 
 ### 🛠 Skills
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
