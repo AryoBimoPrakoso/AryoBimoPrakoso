@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Aryo Bimo Prakoso, an Junior Frontend Developer
+I'm Aryo Bimo Prakoso, an Junior Web Programmer 
 
 ### 🛠 Skills
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -8,6 +8,8 @@ I'm Aryo Bimo Prakoso, an Junior Frontend Developer
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6CC248?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <!--
 **AryoBimoPrakoso/AryoBimoPrakoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
